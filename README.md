@@ -33,7 +33,7 @@ A full-stack application that helps users manage their todos and get AI-powered 
 
 - This project sends todo summaries directly to your company’s **dedicated Slack channel** via an Incoming Webhook URL.
 - You can join this Slack channel to verify that the AI-generated todo summaries are being posted in real-time.
-- **Join the Slack channel here:** [Join Our Slack Channel](https://app.slack.com/huddle/T08TNJDK3K4/C08TNJE9482)  
+- **Join the Slack channel here:** [Join Our Slack Channel](https://todoappnetwork.slack.com/archives/C08TNJE9482)  
   *(Replace this URL with your actual Slack invite link or Slack channel URL)*
 - After joining, create or update todos and trigger the summary to see the messages appear instantly in Slack.
 
