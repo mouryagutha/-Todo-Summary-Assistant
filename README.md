@@ -3,6 +3,8 @@
 
 A full-stack application that helps users manage their todos and get AI-powered summaries sent to Slack.
 
+
+
 ## Features
 
 - Create, edit, and delete todo items
@@ -26,6 +28,15 @@ A full-stack application that helps users manage their todos and get AI-powered 
 - Supabase account
 - OpenAI API key
 - Slack workspace with webhook URL
+
+## Slack Channel Integration Details
+
+- This project sends todo summaries directly to your company’s **dedicated Slack channel** via an Incoming Webhook URL.
+- You can join this Slack channel to verify that the AI-generated todo summaries are being posted in real-time.
+- **Join the Slack channel here:** [Join Our Slack Channel](https://join.slack.com/t/yourworkspace/shared_invite/xxxxxxxxxxxx)  
+  *(Replace this URL with your actual Slack invite link or Slack channel URL)*
+- After joining, create or update todos and trigger the summary to see the messages appear instantly in Slack.
+
 
 ## Setup Instructions
 
